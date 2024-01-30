@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
+    <g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M358.619,128L358.619,318.619" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M358.619,398.619L358.619,850L458.619,850L508.619,890L558.619,850" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M641.381,871L641.381,681.381" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M641.381,601.381L641.381,150" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M441.381,150L491.381,110L541.381,150L771.381,150" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M681.381,358.619L872,358.619" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M601.381,358.619L150,358.619L150,450L110,500L150,550L150,641.381L318.619,641.381" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+        <g transform="matrix(1.16026,0,0,1.16026,-80.1282,-80.1282)">
+            <path d="M850,450L890,500L850,550L850,641.381L398.619,641.381" style="fill:none;stroke:black;stroke-width:35.91px;"/>
+        </g>
+    </g>
+</svg>
